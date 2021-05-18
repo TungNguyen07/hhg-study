@@ -1,0 +1,17 @@
+.table-employee {
+  max-width: 1200px;
+  display: block;
+  margin: auto;
+  padding-top: 3rem;
+
+  .title {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .button-wrapper {
+    max-width: 200px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
